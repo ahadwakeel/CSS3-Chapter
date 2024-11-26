@@ -1,3 +1,6 @@
+body {
+    font-size: 36px
+}
 p {
     font-family: Georgia, Times, serif;
 }
@@ -10,4 +13,19 @@ p {
 }
 .h1 {
     font-size: 32px;
+}
+.a {
+    font-weight: bold;
+    font-size: 2em
+}
+.b {
+    font-size: 1.2em;
+}
+.img {
+    width: 12.5em;
+}
+.c {
+    font-size: 2em;
+    font-family: "roboto", Times, Serif ;
+    font-weight: 300;
 }
