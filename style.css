@@ -1,5 +1,5 @@
 body {
-    font-size: 36px
+    font-size: 24px
 }
 p {
     font-family: Georgia, Times, serif;
@@ -28,4 +28,42 @@ p {
     font-size: 2em;
     font-family: "roboto", Times, Serif ;
     font-weight: 300;
+}
+.e {
+    font-size: 2em;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+.f {
+    font-weight: normal;
+}
+.g {
+    font-weight: bold;
+}
+.h {
+    font-style: italic;
+}
+.aa {
+    font-size: 2em;
+    font-weight: bold;
+    color: blue;
+}
+.i {
+    text-transform: uppercase;
+}
+.j {
+    text-transform: lowercase;
+}
+.k {
+    text-transform: capitalize;
+}
+.l {
+    text-decoration: underline;
+}
+.m {
+    text-decoration: overline;
+}
+.n {
+    text-decoration: line-through;
 }
