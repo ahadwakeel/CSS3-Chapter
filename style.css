@@ -29,12 +29,6 @@ p {
     font-family: "roboto", Times, Serif ;
     font-weight: 300;
 }
-.e {
-    font-size: 2em;
-    font-weight: bold;
-    color: blue;
-    text-align: center;
-}
 .f {
     font-weight: normal;
 }
@@ -66,4 +60,45 @@ p {
 }
 .n {
     text-decoration: line-through;
+}
+.o {
+    line-height: 2em;
+}
+.p {
+    font-size: 2em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+.q {
+    font-size: 1.4em;
+    word-spacing: 2em;
+}
+.e {
+    text-align: center;
+}
+.r {
+    text-align: right;
+}
+.s {
+    text-align: left;
+}
+.pic {
+    width: 9.5em;
+    vertical-align: top;
+    border: 5px solid grey;
+}
+
+.pic2 {
+    width: 9.5em;
+    vertical-align: middle;
+    border: 5px solid grey;
+}
+.pic3 {
+    width: 9.5em;
+    vertical-align: bottom;
+    border: 5px solid grey;
+}
+.t {
+    text-indent: 1.25em;
 }
