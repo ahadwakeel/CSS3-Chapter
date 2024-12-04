@@ -1,4 +1,5 @@
 body {
+    background-color:rgb(231, 249, 255);
     font-size: 24px
 }
 p {
@@ -102,3 +103,44 @@ p {
 .t {
     text-indent: 1.25em;
 }
+.u {
+    background-color: #eeeeee;
+    color: #666666;
+    text-shadow: 1px 1px 0px #000000;
+}
+.v {
+    background-color: #dddddd;
+color: #666666;
+text-shadow: 1px 1px 3px #666666;
+}
+.w {
+    background-color: #cccccc;
+    color: #ffffff;
+    text-shadow: 2px 2px 7px #111111;
+}
+.x {
+    background-color: #bbbbbb;
+    color: #cccccc;
+    text-shadow: -1px -2px #666666;
+}
+.y {
+    background-color: #aaaaaa;
+    color: #ffffff;
+    text-shadow: -1px -1px #666666;
+}
+.intro {
+    font-size: 200%;
+}
+.first-line {
+    font-weight: 700;
+}
+a link {
+     color: deeppink;
+     text-decoration: none;}
+a:visited {
+     color: rgb(255, 136, 0);}
+a:hover {
+     color: deeppink;
+     text-decoration: underline;}
+a:active {
+    color: rgb(40, 218, 24);}
