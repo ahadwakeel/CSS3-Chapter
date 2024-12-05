@@ -1,6 +1,23 @@
 body {
-    background-color:rgb(231, 249, 255);
+    background-color:rgb(212, 244, 255);
     font-size: 24px
+}
+.xt {
+    font-size: 1.3em;
+    font-weight: 700;
+    text-align: center;
+}
+.xtt {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: deeppink;
+    text-align: center;
+}
+.txt {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: rgb(78, 109, 29);
+    text-align: center; 
 }
 p {
     font-family: Georgia, Times, serif;
@@ -144,3 +161,27 @@ a:hover {
      text-decoration: underline;}
 a:active {
     color: rgb(40, 218, 24);}
+.buton:hover {
+    color: rgb(16, 238, 45);
+}
+.buton:active {
+    background-color: rgb(255, 251, 0);}
+
+
+.buton {
+    font-size: 1.2em;
+    border-radius: 12px;
+    cursor: default;
+    font-weight: bold;
+}
+.buton:focus {
+    color: deeppink;
+}
+.box {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: rgb(78, 109, 29);
+    text-align: center;
+}
+
+
