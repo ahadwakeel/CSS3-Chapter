@@ -183,6 +183,28 @@ a:active {
     color: rgb(78, 109, 29);
     text-align: center;
 }
-.m
+.bix {
+    width: 400px;
+    height: 400px;
+    background-color: deeppink;
+}
+.pp {
+    width: 75%;
+    height: 80%;
+    background-color: rgb(159, 167, 173);
+}
+.minmax {
+    font-size: 2em;
+    font-weight: 700;
+    color: blue;
+    border: 1px solid green;
+    max-width: 10.2em;
+    min-width: 11em;
+}
+.prah {
+    min-width: 13em;
+    max-width: 40em;
+}
+
 
 
