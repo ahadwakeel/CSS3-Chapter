@@ -204,7 +204,11 @@ a:active {
 .prah {
     min-width: 13em;
     max-width: 40em;
+    border: 2px solid rgb(255, 0, 0)   
 }
-
+.flow {
+    max-height: 2em;
+    overflow-y: scroll;
+}
 
 
