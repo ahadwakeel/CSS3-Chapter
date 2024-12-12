@@ -210,5 +210,30 @@ a:active {
     max-height: 2em;
     overflow-y: scroll;
 }
+.bold {
+    font-size: 1.2em;
+    font-weight: 700;
+
+}
+.with {
+    width: 350px;
+    border: 2px solid black;
+}
+.woth {
+    width: 350px;
+    border: 2px solid black;
+}
+.within {
+    padding: 10px;
+    margin: 10px;
+    width: 350px;
+    border: 2px solid black; 
+}
+.wothin {
+    padding: 10px;
+    margin: 10px;
+    width: 350px;
+    border: 2px solid black;   
+}
 
 
