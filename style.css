@@ -235,5 +235,66 @@ a:active {
     width: 350px;
     border: 2px solid black;   
 }
+.bord {
+    width: 250px;
+    border-top: 1px solid black;
+    border-right: 4px solid black;
+    border-bottom: 12px solid black;
+    border-left: 4px solid black;
+}
+.solid {
+    width: 250px;
+    border-style: solid;
+}
+.dotted {
+    width: 250px;
+    border-style: dotted;
+}
+.dashed {
+    width: 250px;
+    border-style: dashed;
+}
+.double {
+    width: 250px;
+    border-style: double;
+}
+.groove {
+    width: 250px;
+    border-style: groove;
+}
+.ridge {
+    width: 250px;
+    border-style: ridge;
+}
+.inset {
+    width: 250px;
+    border-style: inset;
+}
+.outset {
+    width: 250px;
+    border-style: outset;
+}
+.bordc {
+    width: 250px;
+    border-top:solid red;
+    border-right:solid yellow;
+    border-bottom:solid green;
+    border-left:solid blue;
+}
+.tt {
+    margin: 20px;
+    display: inline-block;
+}
+.mm {
+    display: none;
+}
+.ss {
+    margin: 20px;
+    display: inline-block;
+}
+.nn {
+    display: inline-block;
+    visibility: hidden;
+}
 
 
