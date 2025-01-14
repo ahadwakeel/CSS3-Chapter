@@ -296,5 +296,29 @@ a:active {
     display: inline-block;
     visibility: hidden;
 }
+.none {
+    list-style: none;
+}
+.disc {
+    list-style: disc;
+}
+.circle {
+    list-style: circle;
+}
+.square {
+    list-style: square;
+}
+.decimal {
+    list-style-type: decimal;
+}
+.decimal-leading-zero {
+    list-style-type: decimal-leading-zero;
+}
+.alpha {
+    list-style: lower-alpha;
+}
+.roman {
+    list-style: lower-roman;
+}
 
 
